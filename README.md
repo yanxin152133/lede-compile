@@ -1,2 +1,3 @@
 # lede-compile
-lede 编译
+## 官方地址
+[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
