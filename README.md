@@ -58,3 +58,4 @@ make V=s -j$(nproc)
 
 ## 1.3. 版本
 ### 1.3.1. R22.5.5
+![image](https://user-images.githubusercontent.com/43341537/171808932-f1082bf0-22e6-445e-87d9-1e990beb33a6.png)
