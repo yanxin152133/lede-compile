@@ -58,4 +58,8 @@ make V=s -j$(nproc)
 
 ## 1.3. 版本
 ### 1.3.1. R22.5.5
-![image](https://user-images.githubusercontent.com/43341537/171808932-f1082bf0-22e6-445e-87d9-1e990beb33a6.png)
+固件版本：OpenWrt R22.5.5     
+内核版本：5.15.46     
+平台：x86     
+![image](https://user-images.githubusercontent.com/43341537/174236995-7737f200-d679-49c8-a546-421b9885118b.png)
+
